@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![](./img/linkedin-light.svg)](https://linkedin.com/in/iamkramztech#gh-light-mode-only)
-[![](./img/linkedin-dark.svg)](https://linkedin.com/in/iamkramztech#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamkramztech#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamkramztech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/iamKramztech#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/iamKramztech#gh-dark-mode-only)
