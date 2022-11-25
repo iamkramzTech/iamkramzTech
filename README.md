@@ -1,8 +1,8 @@
-# Hi there, I'm Mark Joseph  - aka [KramzTech] 👋 
+# Hi there👋 
 
 
 
-## I'm an Altar Server, Music Enthusiast, Software Developer, and Programmer!!
+# I recently graduated with my bachelor's degree in Information Technology with a major in Programming.
 
 - 🌱 Focusing on Mobile App Dev(React-native & Expo, SQLite) and Web Development(MERN stack) 
 - 🌱Learning JS ES6 and other tending Tech stack 👩‍💻
