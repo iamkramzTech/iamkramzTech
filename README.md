@@ -2,7 +2,7 @@
 
 
 
-# I recently graduated with my bachelor's degree in Information Technology with a major in Programming.
+# I recently graduated with my Bachelor's degree in Information Technology with a major in Programming.
 
 - 🌱 Focusing on Mobile App Dev(React-native & Expo, SQLite) and Web Development(MERN stack) 
 - 🌱Learning JS ES6 and other tending Tech stack 👩‍💻
