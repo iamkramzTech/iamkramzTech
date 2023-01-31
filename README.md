@@ -7,7 +7,7 @@
 - 🌱 Focusing on Mobile App Dev(React-native & Expo, SQLite) and Web Development(MERN stack) 
 - 🌱Learning JS ES6 and other tending Tech stack 👩‍💻
 - 🎓 I’m a fesh graduate and seeking for a Job 
-- 🥅 2022 Goals: Learn more about Software Development and new technologies. To be qualified in freelancing/remote jobs.
+- 🥅 2023 Goals: Learn more about Software Development and new technologies. To be qualified in freelancing/remote jobs.
 - ⚡ Fun fact: I love to  play musical instrument such as guitar🎸
 
 ### Connect with me:
