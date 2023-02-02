@@ -4,11 +4,12 @@
 
 # I recently graduated with my Bachelor's degree in Information Technology with a major in Programming.
 
-- 🌱 Focusing on Mobile App Dev(React-native & Expo, SQLite) and Web Development(MERN stack) 
-- 🌱Learning JS ES6 and other tending Tech stack 👩‍💻
+- 🌱 Focus on  developing Mobile App Dev(React-native & Expo, SQLite) and Web Development(MERN stack) 
+- 🌱Focus on JavaScript ES6+ and it's framework and libraries 👩‍💻
 - 🎓 I’m a Fresh Graduate and seeking for a Job 
-- 🥅 2023 Goals: Learn more about Software Development and new technologies. To be qualified in freelancing/remote jobs.
+- 🥅 2023 Goals: Apply all my programming language, and IT knowldege learned from university while continue exploring more additional input from other programming platform, and technology trends upon application all of this in my future projects.
 - ⚡ Fun fact: I love to  play musical instrument such as guitar🎸
+- ⚡Others: Watching Favorite K-Drama, C-Drama Movie
 
 ### Connect with me:
 
