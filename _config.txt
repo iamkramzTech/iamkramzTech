@@ -1,0 +1,2 @@
+permalink: /index/
+permalink: /projects/
