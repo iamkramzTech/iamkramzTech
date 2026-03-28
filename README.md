@@ -1,10 +1,66 @@
-<h3 align="center">Hi there👋</h3> 
+<h1 align="center">Mark Joseph Bernaldez</h1>
+<h3 align="center">🚀 Passionate Developer | Problem Solver | Lifelong Learner</h3>
 
-[![@iamkramztech's Holopin board](https://holopin.io/api/user/board?user=iamkramztech)](https://holopin.io/@iamkramztech)
+<p align="center">
+  Welcome to my GitHub profile! I'm a developer who enjoys building impactful projects, learning new technologies, and continuously improving my craft.
+</p>
 
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently working on: *Your current project or focus*
+- 🌱 Learning: *Technologies you're currently learning*
+- 💡 Interests: *Web Development / AI / Mobile Apps / etc.*
+- 📫 Reach me at: *your.email@example.com*
+- ⚡ Fun fact: *Something unique about you*
+
+---
+
+## 🏆 Achievements & Badges
+<p align="center">
+  <a href="https://holopin.io/@iamkramzTech">
+    <img src="https://holopin.io/api/user/board?user=iamkramzTech" alt="Holopin Badges"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkramzTech&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkramzTech" alt="GitHub Streak"/>
+</p>
+
+<!-- Optional: Top Languages -->
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkramzTech&show_icons=true&locale=en&layout=compact" alt="iamkramzTech"/></p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?iamkramzTech=iamkramzTech&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkramzTech&show_icons=true&locale=en" alt="iamkramzTech"/></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkramzTech" alt="iamkramzTech"/></p>
+## 🛠️ Tech Stack
+<p align="center">
+  <!-- Add or remove technologies as needed -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://twitter.com/yourprofile">Twitter</a> •
+  <a href="https://yourportfolio.com">Portfolio</a>
+</p>
+
+---
+
+## 💡 Quote
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
