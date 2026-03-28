@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mark-joseph-bernaldez">LinkedIn</a> •
   <a href="https://twitter.com/yourprofile">Twitter</a> •
   <a href="https://yourportfolio.com">Portfolio</a>
 </p>
