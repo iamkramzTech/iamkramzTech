@@ -11,7 +11,7 @@
 - 🔭 Currently working on: *Your current project or focus*
 - 🌱 Learning: *Technologies you're currently learning*
 - 💡 Interests: *Web Development / AI / Mobile Apps / etc.*
-- 📫 Reach me at: *your.email@example.com*
+- 📫 Reach me at: *markjoseph.bernaldez.dev@gmail.com*
 - ⚡ Fun fact: *Something unique about you*
 
 ---
