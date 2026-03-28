@@ -46,7 +46,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <!-- Add or remove technologies as needed -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,mysql,sqlite,html,css,js,bootstrap,ts,git,github,visualstudio,vscode" />
 </p>
 
 ---
