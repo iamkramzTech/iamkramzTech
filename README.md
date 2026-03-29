@@ -53,9 +53,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mark-joseph-bernaldez">LinkedIn</a> •
-  <a href="https://www.facebook.com/iamKramzTech">Facebook</a> •
-  <a href="https://iamkramztech.netlify.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/mark-joseph-bernaldez" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="https://www.facebook.com/iamKramzTech" target="_blank" rel="noopener noreferrer">Facebook</a> •
+  <a href="https://iamkramztech.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
 
 ---
