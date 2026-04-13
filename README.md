@@ -8,11 +8,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on: *Your current project or focus*
-- 🌱 Learning: *Technologies you're currently learning*
-- 💡 Interests: *Web Development / AI / Mobile Apps / etc.*
+- 🔭 Currently working on: *Client Projects, and Personal Projects for Portfolio*
+- 🌱 Learning: *About Programming and Sofware Development*
+- 💡 Interests: *Web Development / Desktop Apps / Mobile Apps / Software QA Tester /  etc.*
 - 📫 Reach me at: *markjoseph.bernaldez.dev@gmail.com*
-- ⚡ Fun fact: *Something unique about you*
+- ⚡ Fun fact: *I am a Guitarist in our Parish*
 
 ---
 
